@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162408417287",
+    "firebase_url": "https://react-test55.firebaseio.com",
+    "project_id": "react-test55",
+    "storage_bucket": "react-test55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162408417287:android:c970da206622e9faa202a2",
+        "android_client_info": {
+          "package_name": "com.skiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162408417287-frujd6tm43c9lu807s2ai2dped5c54dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFs8EnKVXRvbosbK1knkTIm0pWZ60hNFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162408417287-frujd6tm43c9lu807s2ai2dped5c54dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
